@@ -1,0 +1,51 @@
+{
+  "id": "crystal-skulls",
+  "name": "Crystal Skulls",
+  "category": "Archaeological Hoax",
+  "type": "Modern Forgeries",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Various (falsely claimed as pre-Columbian)",
+      "region": "Alleged Mesoamerican origin",
+      "country": "Actually 19th century European creation",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "19th Century European",
+    "period": "1860s-1930s (creation), falsely claimed as ancient",
+    "source": "European workshops, likely German"
+  },
+  "description": {
+    "short": "Alleged pre-Columbian artifacts that are actually modern forgeries created in 19th century Europe, proven through scientific analysis.",
+    "long": "Crystal skulls are carved quartz skulls falsely claimed to be pre-Columbian Mesoamerican artifacts with mystical properties. The most famous examples include the British Museum skull and the Mitchell-Hedges skull, allegedly discovered in the 1920s. For decades, these artifacts were promoted as ancient Aztec or Maya creations possessing supernatural powers. However, scientific analysis using electron microscopy and other techniques has conclusively proven these skulls were manufactured in 19th century Europe, likely Germany, using modern rotary tools unavailable to pre-Columbian peoples. No crystal skull has been found in controlled archaeological excavation. The skulls represent a combination of deliberate forgery, collector fraud, and wishful thinking. Despite scientific debunking, crystal skulls remain popular in New Age circles and alternative archaeology, demonstrating the persistence of pseudoarchaeological claims."
+  },
+  "characteristics": [
+    "Carved from quartz crystal",
+    "Skull-shaped artifacts",
+    "Claimed as pre-Columbian",
+    "Actually 19th century European",
+    "Modern tool marks proven",
+    "No archaeological context",
+    "Promoted with mystical claims",
+    "Scientifically debunked as forgeries"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Proven modern forgeries created in 19th century Europe using modern tools; no authentic pre-Columbian crystal skulls exist",
+    "evidence_level": "Debunked Hoax"
+  },
+  "cultural_impact": {
+    "significance": "Famous archaeological hoax demonstrating importance of scientific analysis and proper provenance",
+    "modern_usage": "Continues in New Age spirituality and alternative archaeology despite scientific debunking",
+    "folklore_type": "Modern Archaeological Fraud"
+  },
+  "see_also": [
+    "pseudoarchaeology",
+    "archaeological-forgeries",
+    "mesoamerican-archaeology",
+    "new-age-beliefs"
+  ]
+}
